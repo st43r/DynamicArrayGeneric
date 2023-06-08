@@ -12,7 +12,7 @@ namespace Norbit.Crm.Protasov
 	/// <typeparam name="T">Тип элементов массива.</typeparam>
 	public class DynamicArray<T> : IEnumerable<T>, IEnumerator<T>, IComparable<T>
 	{
-		#region
+		#region Константы.
 
 		/// <summary>
 		/// Размер дополнительного места в массиве.
@@ -46,6 +46,7 @@ namespace Norbit.Crm.Protasov
 
 
 		#region Геттеры.
+		
 		/// <summary>
 		/// Получает длину.
 		/// </summary>
@@ -65,6 +66,7 @@ namespace Norbit.Crm.Protasov
 
 
 		#region Конструкторы.
+		
 		/// <summary>
 		/// Создает пустой массив ёмкостью 8.
 		/// </summary>
@@ -101,6 +103,7 @@ namespace Norbit.Crm.Protasov
 
 
 		#region Методы.
+		
 		/// <summary>
 		/// Добавляет в конец массива <paramref name="value"/>.
 		/// </summary>
@@ -351,6 +354,7 @@ namespace Norbit.Crm.Protasov
 		#endregion
 
 		#region Интерфейсы.
+		
 		/// <summary>
 		/// Создает набор элементов из <paramref name="array"/>.
 		/// </summary>

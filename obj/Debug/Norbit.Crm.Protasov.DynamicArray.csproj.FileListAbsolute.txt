@@ -1,0 +1,9 @@
+C:\src\Cs\Norbit.Crm.Protasov\TaskSeven\Norbit.Crm.Protasov.DynamicArray\bin\Debug\Norbit.Crm.Protasov.DynamicArray.dll
+C:\src\Cs\Norbit.Crm.Protasov\TaskSeven\Norbit.Crm.Protasov.DynamicArray\bin\Debug\Norbit.Crm.Protasov.DynamicArray.pdb
+C:\src\Cs\Norbit.Crm.Protasov\TaskSeven\Norbit.Crm.Protasov.DynamicArray\bin\Debug\Norbit.Crm.Protasov.ValidationHelper.dll
+C:\src\Cs\Norbit.Crm.Protasov\TaskSeven\Norbit.Crm.Protasov.DynamicArray\bin\Debug\Norbit.Crm.Protasov.ValidationHelper.pdb
+C:\src\Cs\Norbit.Crm.Protasov\TaskSeven\Norbit.Crm.Protasov.DynamicArray\obj\Debug\Norbit.Crm.Protasov.DynamicArray.csproj.AssemblyReference.cache
+C:\src\Cs\Norbit.Crm.Protasov\TaskSeven\Norbit.Crm.Protasov.DynamicArray\obj\Debug\Norbit.Crm.Protasov.DynamicArray.csproj.CoreCompileInputs.cache
+C:\src\Cs\Norbit.Crm.Protasov\TaskSeven\Norbit.Crm.Protasov.DynamicArray\obj\Debug\Norbit.Crm.Protasov.DynamicArray.csproj.CopyComplete
+C:\src\Cs\Norbit.Crm.Protasov\TaskSeven\Norbit.Crm.Protasov.DynamicArray\obj\Debug\Norbit.Crm.Protasov.DynamicArray.dll
+C:\src\Cs\Norbit.Crm.Protasov\TaskSeven\Norbit.Crm.Protasov.DynamicArray\obj\Debug\Norbit.Crm.Protasov.DynamicArray.pdb
